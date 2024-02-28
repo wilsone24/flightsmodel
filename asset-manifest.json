@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flightsmodel/static/css/main.56cdd4ab.css",
+    "main.js": "/flightsmodel/static/js/main.508c4609.js",
+    "index.html": "/flightsmodel/index.html",
+    "main.56cdd4ab.css.map": "/flightsmodel/static/css/main.56cdd4ab.css.map",
+    "main.508c4609.js.map": "/flightsmodel/static/js/main.508c4609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56cdd4ab.css",
+    "static/js/main.508c4609.js"
+  ]
+}
